@@ -39,4 +39,5 @@ You can preview the production build with `npm run preview`.
 
 ## Website URL:
 
-[project_URL](https://vercel.com/arif-devolops-projects/random-github-repo)
+https://vercel.com/arif-devolops-projects/random-github-repo
+https://roadmap.sh/projects/github-random-repo
