@@ -79,7 +79,9 @@
   let value = "";
 </script>
 
-<div class="flex flex-col items-center gap-4 w-[412px] md:w-[512px] p-6 md:p-0">
+<div
+  class="flex flex-col items-center justify-center gap-4 w-[412px] md:w-[512px] p-6 md:p-0"
+>
   <div class="w-full box-border">
     <h1 class="text-2xl md:text-3xl font-bold text-center">
       GitHub Random Repository Finder
